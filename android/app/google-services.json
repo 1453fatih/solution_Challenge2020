@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873249744811",
+    "firebase_url": "https://nem-sicaklik.firebaseio.com",
+    "project_id": "nem-sicaklik",
+    "storage_bucket": "nem-sicaklik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873249744811:android:6598610f4c7cf991f894ee",
+        "android_client_info": {
+          "package_name": "fatih.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873249744811-35vd4pgd3vvstrih42l5mcaq6j0q72a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fatih.flutterapp",
+            "certificate_hash": "276847fe5a558c674f8a4e27ff1b95e0a04a581f"
+          }
+        },
+        {
+          "client_id": "873249744811-5jm4548gpvitosv06vc5lmavjokfpj87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXCPQ8EFUMzO02vk2sjJuraEdrv6_HbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873249744811-5jm4548gpvitosv06vc5lmavjokfpj87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
